@@ -1,0 +1,32 @@
+<!-- Goal: Fetch user data from an API, use map() to create list items, and insert them into the DOM. -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Fetch & Map Example</title>
+  </head>
+  <body>
+    <h1>User List</h1>
+    <ul id="user-list"></ul>
+
+    <script>
+      const userList = document.getElementById("user-list");
+
+      fetch("https://jsonplaceholder.typicode.com/users")
+        .then((response) => response.json())
+        .then((users) => {
+          const listItems = users.map((user) => {
+            const li = document.createElement("li");
+            li.textContent = `${user.name} (${user.email})`;
+            return li;
+          });
+
+          listItems.forEach((li) => userList.appendChild(li));
+        })
+        .catch((error) => {
+          console.error("Veri çekilirken hata oluştu:", error);
+          userList.innerHTML = "<li>Bir hata oluştu</li>";
+        });
+    </script>
+  </body>
+</html>
