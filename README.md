@@ -22,6 +22,7 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ### ⚛ React
 - [ ] JSX, function vs class components
 - [ ] useState, useEffect, useRef, useContext
+- [ ] Two-Way Binding, Props Drilling
 - [ ] useReducer, useMemo, useCallback
 - [ ] custom hooks, Context API
 - [ ] error boundaries, React DevTools
