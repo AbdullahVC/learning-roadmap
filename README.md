@@ -7,7 +7,7 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ## ✅ Progress Checklist
 
 ### ⚙ JavaScript (ES6+)
-- [ ] map, filter, reduce, find, some, every
+- [x] map, filter, reduce, find, some, every
 - [ ] destructuring, spread, rest
 - [ ] async/await, Promise chaining, try/catch
 - [ ] closures, currying, this, bind/call/apply
