@@ -8,7 +8,7 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 
 ### ⚙ JavaScript (ES6+)
 - [x] map, filter, reduce, find, some, every
-- [ ] destructuring, spread, rest
+- [x] destructuring, spread, rest
 - [ ] async/await, Promise chaining, try/catch
 - [ ] closures, currying, this, bind/call/apply
 - [ ] event loop, call stack, microtask vs macrotask
