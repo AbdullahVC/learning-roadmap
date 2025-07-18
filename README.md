@@ -7,12 +7,23 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ## ✅ Progress Checklist
 
 ### ⚙ JavaScript (ES6+)
-- [x] map, filter, reduce, find, some, every
-- [x] destructuring, spread, rest
-- [ ] async/await, Promise chaining, try/catch
-- [ ] closures, currying, this, bind/call/apply
-- [ ] event loop, call stack, microtask vs macrotask
-- [ ] import/export, classes, inheritance, static methods
+- [ ] variables, constants, type conversion  
+- [ ] arithmetic & logical operators  
+- [ ] if / switch / ternary  
+- [ ] for / while loops  
+- [ ] functions, scope, arrow functions  
+- [ ] arrays, 2D arrays, array methods  
+- [ ] objects, constructors, nested objects  
+- [ ] map, filter, reduce, find, some, every  
+- [ ] destructuring, spread, rest  
+- [ ] callbacks, method chaining  
+- [ ] promises, async/await, try/catch  
+- [ ] closures, this, bind / call / apply  
+- [ ] classes, inheritance, static, getters/setters  
+- [ ] event loop, call stack, microtask/macrotask  
+- [ ] import/export, ES6 modules  
+- [ ] DOM manipulation, events  
+- [ ] fetch API, JSON, cookies  
 
 ### 💙 TypeScript
 - [ ] type vs interface, unions, intersections, literals
