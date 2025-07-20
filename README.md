@@ -14,8 +14,8 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [ ] functions, scope, arrow functions  
 - [ ] arrays, 2D arrays, array methods  
 - [ ] objects, constructors, nested objects  
-- [ ] map, filter, reduce, find, some, every  
-- [ ] destructuring, spread, rest  
+- [x] map, filter, reduce, find, some, every  
+- [x] destructuring, spread, rest  
 - [ ] callbacks, method chaining  
 - [ ] promises, async/await, try/catch  
 - [ ] closures, this, bind / call / apply  
