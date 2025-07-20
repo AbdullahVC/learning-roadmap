@@ -7,8 +7,8 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ## ✅ Progress Checklist
 
 ### ⚙ JavaScript (ES6+)
-- [ ] variables, constants, type conversion  
-- [ ] arithmetic & logical operators  
+- [x] variables, constants, type conversion  
+- [x] arithmetic & logical operators  
 - [ ] if / switch / ternary  
 - [ ] for / while loops  
 - [ ] functions, scope, arrow functions  
