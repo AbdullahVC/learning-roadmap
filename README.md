@@ -9,10 +9,10 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ### ⚙ JavaScript (ES6+)
 - [x] variables, constants, type conversion  
 - [x] arithmetic & logical operators  
-- [ ] if / switch / ternary  
-- [ ] for / while loops  
-- [ ] functions, scope, arrow functions  
-- [ ] arrays, 2D arrays, array methods  
+- [x] if / switch / ternary  
+- [x] for / while loops  
+- [x] functions, scope, arrow functions  
+- [x] arrays, 2D arrays, array methods  
 - [ ] objects, constructors, nested objects  
 - [x] map, filter, reduce, find, some, every  
 - [x] destructuring, spread, rest  
