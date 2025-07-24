@@ -10,7 +10,7 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] variables, constants, type conversion  
 - [x] arithmetic & logical operators  
 - [x] if / switch / ternary  
-- [x] for / while loops  
+- [x] for / while loops / for-in/ for-of/ for-each
 - [x] functions, scope, arrow functions  
 - [x] arrays, 2D arrays, array methods  
 - [ ] objects, constructors, nested objects  
@@ -22,7 +22,7 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [ ] classes, inheritance, static, getters/setters  
 - [ ] event loop, call stack, microtask/macrotask  
 - [ ] import/export, ES6 modules  
-- [ ] DOM manipulation, events  
+- [ ] DOM manipulation, events, event delegation
 - [ ] fetch API, JSON, cookies  
 
 ### 💙 TypeScript
