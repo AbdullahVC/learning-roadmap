@@ -13,17 +13,17 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] for / while loops  
 - [x] functions, scope, arrow functions  
 - [x] arrays, 2D arrays, array methods  
-- [ ] objects, constructors, nested objects  
+- [x] objects, constructors, nested objects  
 - [x] map, filter, reduce, find, some, every  
 - [x] destructuring, spread, rest  
-- [ ] callbacks, method chaining  
-- [ ] promises, async/await, try/catch  
-- [ ] closures, this, bind / call / apply  
-- [ ] classes, inheritance, static, getters/setters  
-- [ ] event loop, call stack, microtask/macrotask  
-- [ ] import/export, ES6 modules  
-- [ ] DOM manipulation, events  
-- [ ] fetch API, JSON, cookies  
+- [x] callbacks, method chaining  
+- [x] promises, async/await, try/catch  
+- [x] closures, this, bind / call / apply  
+- [x] classes, inheritance, static, getters/setters  
+- [x] event loop, call stack, microtask/macrotask  
+- [x] import/export, ES6 modules  
+- [x] DOM manipulation, events  
+- [x] fetch API, JSON, cookies  
 
 ### 💙 TypeScript
 - [ ] type vs interface, unions, intersections, literals
