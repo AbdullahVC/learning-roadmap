@@ -26,9 +26,9 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] fetch API, JSON, cookies  
 
 ### 💙 TypeScript
-- [ ] type vs interface, unions, intersections, literals
-- [ ] generics, Partial, Pick, Omit, Record
-- [ ] enums, tuples, strict TypeScript config
+- [x] type vs interface, unions, intersections, literals
+- [x] generics, Partial, Pick, Omit, Record
+- [x] enums, tuples, strict TypeScript config
 
 ### ⚛ React
 - [ ] JSX, function vs class components
