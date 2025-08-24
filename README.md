@@ -69,14 +69,14 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] Strict TypeScript Config  
 
 ### ⚛ React
-- [ ] JSX  
-- [ ] Function Components  
-- [ ] Class Components (temel mantık)  
-- [ ] Props  
-- [ ] State  
-- [ ] useState Hook  
-- [ ] useEffect Hook  
-- [ ] useRef Hook  
+- [x] JSX  
+- [x] Function Components  
+- [x] Class Components (temel mantık)  
+- [x] Props  
+- [x] State  
+- [x] useState Hook  
+- [x] useEffect Hook  
+- [x] useRef Hook  
 - [ ] useContext Hook  
 - [ ] Event Handling in React  
 - [ ] Forms (controlled vs uncontrolled)  
