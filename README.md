@@ -77,22 +77,22 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] useState Hook  
 - [x] useEffect Hook  
 - [x] useRef Hook  
-- [ ] useContext Hook  
-- [ ] Event Handling in React  
-- [ ] Forms (controlled vs uncontrolled)  
-- [ ] Two-Way Binding  
-- [ ] Props Drilling  
-- [ ] useReducer Hook  
-- [ ] useMemo Hook  
-- [ ] useCallback Hook  
-- [ ] Custom Hooks  
-- [ ] Context API  
-- [ ] Component Composition Patterns  
-- [ ] Compound Components  
-- [ ] Render Props  
-- [ ] Higher Order Components (HOC)  
-- [ ] Error Boundaries  
-- [ ] React DevTools  
+- [x] useContext Hook  
+- [x] Event Handling in React  
+- [x] Forms (controlled vs uncontrolled)  
+- [x] Two-Way Binding  
+- [x] Props Drilling  
+- [x] useReducer Hook  
+- [x] useMemo Hook  
+- [x] useCallback Hook  
+- [x] Custom Hooks  
+- [x] Context API  
+- [x] Component Composition Patterns  
+- [x] Compound Components  
+- [x] Render Props  
+- [x] Higher Order Components (HOC)  
+- [x] Error Boundaries  
+- [x] React DevTools  
 - [ ] Code Splitting (React.lazy + Suspense)  
 - [ ] React Router (routing basics)  
 - [ ] React Router: nested & dynamic routes  
