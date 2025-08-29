@@ -93,19 +93,10 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [x] Higher Order Components (HOC)  
 - [x] Error Boundaries  
 - [x] React DevTools  
-- [ ] Code Splitting (React.lazy + Suspense)  
-- [ ] React Router (routing basics)  
-- [ ] React Router: nested & dynamic routes  
-- [ ] Performance Optimization (memoization, virtualization)  
-
-### 🎨 UI & Animation
-- [ ] Tailwind CSS  
-- [ ] CSS Modules  
-- [ ] Styled Components  
-- [ ] Emotion  
-- [ ] Material UI (MUI)  
-- [ ] Radix UI  
-- [ ] Framer Motion (animations)  
+- [x] Code Splitting (React.lazy + Suspense)  
+- [x] React Router (routing basics)  
+- [x] React Router: nested & dynamic routes  
+- [x] Performance Optimization (memoization, virtualization)  
 
 ### 🪢 State Management
 - [ ] Context API (derin kullanım)  
@@ -114,7 +105,16 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 - [ ] Recoil  
 - [ ] Redux Toolkit  
 - [ ] React Query (TanStack)  
-- [ ] SWR  
+- [ ] SWR 
+
+### 🎨 UI & Animation
+- [ ] Tailwind CSS  
+- [ ] CSS Modules  
+- [ ] Styled Components  
+- [ ] Emotion  
+- [ ] Material UI (MUI)  
+- [ ] Radix UI  
+- [ ] Framer Motion (animations)   
 
 ### 🚀 Next.js
 - [ ] Pages Router vs App Router  
