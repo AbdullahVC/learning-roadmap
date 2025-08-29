@@ -7,96 +7,193 @@ This is my complete learning roadmap, from modern JavaScript to advanced backend
 ## ✅ Progress Checklist
 
 ### ⚙ JavaScript (ES6+)
-- [x] variables, constants, type conversion  
-- [x] arithmetic & logical operators  
-- [x] if / switch / ternary  
-- [x] for / while loops  
-- [x] functions, scope, arrow functions  
-- [x] arrays, 2D arrays, array methods  
-- [x] objects, constructors, nested objects  
-- [x] map, filter, reduce, find, some, every  
-- [x] destructuring, spread, rest  
-- [x] callbacks, method chaining  
-- [x] promises, async/await, try/catch  
-- [x] closures, this, bind / call / apply  
-- [x] classes, inheritance, static, getters/setters  
-- [x] event loop, call stack, microtask/macrotask  
-- [x] import/export, ES6 modules  
-- [x] DOM manipulation, events  
-- [x] fetch API, JSON, cookies  
+- [x] Variables  
+- [x] Constants  
+- [x] Type Conversion  
+- [x] Arithmetic Operators  
+- [x] Logical Operators  
+- [x] if statements  
+- [x] switch statements  
+- [x] ternary operator  
+- [x] for loops  
+- [x] while loops  
+- [x] Functions  
+- [x] Function Scope  
+- [x] Arrow Functions  
+- [x] Arrays  
+- [x] 2D Arrays  
+- [x] Array Methods (forEach, map, filter, etc.)  
+- [x] Objects  
+- [x] Constructors  
+- [x] Nested Objects  
+- [x] map / filter / reduce  
+- [x] find / some / every  
+- [x] Destructuring  
+- [x] Spread Operator  
+- [x] Rest Operator  
+- [x] Callbacks  
+- [x] Method Chaining  
+- [x] Promises  
+- [x] async / await  
+- [x] try / catch  
+- [x] Closures  
+- [x] `this` keyword  
+- [x] bind / call / apply  
+- [x] Classes  
+- [x] Inheritance  
+- [x] Static Methods  
+- [x] Getters & Setters  
+- [x] Event Loop  
+- [x] Call Stack  
+- [x] Microtask vs Macrotask  
+- [x] import / export  
+- [x] ES6 Modules  
+- [x] DOM Manipulation  
+- [x] Events  
+- [x] fetch API  
+- [x] JSON handling  
+- [x] Cookies  
 
 ### 💙 TypeScript
-- [x] type vs interface, unions, intersections, literals
-- [x] generics, Partial, Pick, Omit, Record
-- [x] enums, tuples, strict TypeScript config
+- [x] type vs interface  
+- [x] union types  
+- [x] intersection types  
+- [x] literal types  
+- [x] Generics  
+- [x] Utility Types: Partial  
+- [x] Utility Types: Pick  
+- [x] Utility Types: Omit  
+- [x] Utility Types: Record  
+- [x] Enums  
+- [x] Tuples  
+- [x] Strict TypeScript Config  
 
 ### ⚛ React
-- [ ] JSX, function vs class components
-- [ ] useState, useEffect, useRef, useContext
-- [ ] Two-Way Binding, Props Drilling
-- [ ] useReducer, useMemo, useCallback
-- [ ] custom hooks, Context API
-- [ ] error boundaries, React DevTools
-
-### 🎨 UI & Animation
-- [ ] Tailwind CSS, CSS Modules, Styled Components, Emotion
-- [ ] Material UI, Radix UI
-- [ ] Framer Motion
+- [x] JSX  
+- [x] Function Components  
+- [x] Class Components (temel mantık)  
+- [x] Props  
+- [x] State  
+- [x] useState Hook  
+- [x] useEffect Hook  
+- [x] useRef Hook  
+- [x] useContext Hook  
+- [x] Event Handling in React  
+- [x] Forms (controlled vs uncontrolled)  
+- [x] Two-Way Binding  
+- [x] Props Drilling  
+- [x] useReducer Hook  
+- [x] useMemo Hook  
+- [x] useCallback Hook  
+- [x] Custom Hooks  
+- [x] Context API  
+- [x] Component Composition Patterns  
+- [x] Compound Components  
+- [x] Render Props  
+- [x] Higher Order Components (HOC)  
+- [x] Error Boundaries  
+- [x] React DevTools  
+- [x] Code Splitting (React.lazy + Suspense)  
+- [x] React Router (routing basics)  
+- [x] React Router: nested & dynamic routes  
+- [x] Performance Optimization (memoization, virtualization)  
 
 ### 🪢 State Management
-- [ ] Zustand, Jotai, Recoil
-- [ ] Redux Toolkit
-- [ ] React Query / SWR
+- [ ] Context API (derin kullanım)  
+- [ ] Zustand  
+- [ ] Jotai  
+- [ ] Recoil  
+- [ ] Redux Toolkit  
+- [ ] React Query (TanStack)  
+- [ ] SWR 
+
+### 🎨 UI & Animation
+- [ ] Tailwind CSS  
+- [ ] CSS Modules  
+- [ ] Styled Components  
+- [ ] Emotion  
+- [ ] Material UI (MUI)  
+- [ ] Radix UI  
+- [ ] Framer Motion (animations)   
 
 ### 🚀 Next.js
-- [ ] pages vs app router
-- [ ] getStaticProps, getServerSideProps, ISR
-- [ ] API Routes, Server Components
-- [ ] SEO, next/image, next/head
-- [ ] Middleware, Edge functions, deployment
+- [ ] Pages Router vs App Router  
+- [ ] Static Site Generation (getStaticProps)  
+- [ ] Server-Side Rendering (getServerSideProps)  
+- [ ] Incremental Static Regeneration (ISR)  
+- [ ] API Routes  
+- [ ] Server Components  
+- [ ] SEO with next/head  
+- [ ] next/image optimization  
+- [ ] Middleware  
+- [ ] Edge Functions  
+- [ ] Deployment (Vercel, etc.)  
 
 ### 🔥 Node & Express
-- [ ] event loop, non-blocking IO, core modules
-- [ ] npm scripts, dotenv, config patterns
-- [ ] Express router & middleware
-- [ ] joi/zod validation, helmet, cors, rate limiting
-- [ ] JWT authentication, RESTful API
-- [ ] error handling middleware
+- [ ] Event Loop (Node specifics)  
+- [ ] Non-blocking IO  
+- [ ] Core Modules (fs, path, etc.)  
+- [ ] npm scripts  
+- [ ] dotenv & Config Patterns  
+- [ ] Express Router  
+- [ ] Middleware in Express  
+- [ ] joi/zod Validation  
+- [ ] helmet & cors setup  
+- [ ] Rate Limiting  
+- [ ] JWT Authentication  
+- [ ] RESTful API Design  
+- [ ] Error Handling Middleware  
 
 ### ⚔ NestJS
-- [ ] decorators, modules, controllers, providers
-- [ ] dependency injection, lifecycle
-- [ ] pipes, guards, interceptors
-- [ ] TypeORM / Prisma
-- [ ] Swagger docs, Jest tests
+- [ ] Decorators  
+- [ ] Modules  
+- [ ] Controllers  
+- [ ] Providers  
+- [ ] Dependency Injection  
+- [ ] Lifecycle Hooks  
+- [ ] Pipes  
+- [ ] Guards  
+- [ ] Interceptors  
+- [ ] TypeORM  
+- [ ] Prisma  
+- [ ] Swagger Docs  
+- [ ] Unit Testing with Jest  
 
 ### 🛢 MongoDB & Mongoose
-- [ ] CRUD, populate
-- [ ] indexes, schema optimization
-- [ ] aggregation pipelines
-- [ ] transactions & multi-doc
-- [ ] MongoDB Atlas
+- [ ] CRUD Operations  
+- [ ] Populate (relations)  
+- [ ] Indexes  
+- [ ] Schema Optimization  
+- [ ] Aggregation Pipelines  
+- [ ] Transactions & Multi-Document Ops  
+- [ ] MongoDB Atlas (deployment)  
 
 ### 🧪 Testing
-- [ ] Jest (unit)
-- [ ] React Testing Library (component)
-- [ ] Cypress / Playwright (E2E)
-- [ ] Supertest & Mongo Memory Server
+- [ ] Jest (unit tests)  
+- [ ] React Testing Library (component tests)  
+- [ ] Cypress (E2E tests)  
+- [ ] Playwright (E2E tests)  
+- [ ] Supertest  
+- [ ] Mongo Memory Server (integration tests)  
 
 ### 🛠 Tooling & CI/CD
-- [ ] ESLint, Prettier, Husky, lint-staged
-- [ ] Docker, docker-compose
-- [ ] GitHub Actions / GitLab CI
-- [ ] Lighthouse, bundle analyzer
+- [ ] ESLint  
+- [ ] Prettier  
+- [ ] Husky  
+- [ ] lint-staged  
+- [ ] Docker basics  
+- [ ] docker-compose  
+- [ ] GitHub Actions  
+- [ ] GitLab CI  
+- [ ] Lighthouse  
+- [ ] Bundle Analyzer  
 
 ### 💥 Advanced Ops
-- [ ] Redis cache
-- [ ] WebSocket (socket.io)
-- [ ] Sentry error tracking
-- [ ] rate limiting, circuit breaker patterns
-- [ ] PM2 & clustering
+- [ ] Redis Cache  
+- [ ] WebSocket (socket.io)  
+- [ ] Sentry Error Tracking  
+- [ ] Rate Limiting Patterns  
+- [ ] Circuit Breaker Patterns  
+- [ ] PM2 & Clustering  
 
 ---
-
-💪 Each completed section will be tracked here and linked to the relevant issues for deep dives.  
-Follow along to see my progress or get inspired for your own learning path!
